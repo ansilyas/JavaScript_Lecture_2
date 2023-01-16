@@ -1,0 +1,2 @@
+# JavaScript_Lecture_2
+Array_More_Method
